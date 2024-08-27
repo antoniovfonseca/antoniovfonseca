@@ -1,6 +1,6 @@
 ## **Hi there 👋, my name is Antonio Fonseca**
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswu](https://www.linkedin.com/in/antonio-fonseca-3a12054b/))
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswu](https://www.linkedin.com/in/antonio-fonseca/))
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
