@@ -6,7 +6,7 @@
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
 + 👩‍🏫 I am a PhD student in geography in the Graduate School of Geography at Clark University
   
-+ 🎓 PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
++ 🎓 PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://www.clarku.edu/departments/geography/). 
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 
