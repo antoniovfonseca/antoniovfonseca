@@ -1,6 +1,7 @@
 ## **Hi there 👋, my name is Antonio Fonseca**
 
-**[![LinkedIn Badge](https://img.shields.io/badge/My-repo)](https://img.shields.io/github/repo-size/antoniovfonseca/antoniovfonseca)
+**[![LinkedIn Badge](https://img.shields.io/badge/My-repo)](<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antoniovfonseca/antoniovfonseca">
+)
 
 
 **[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/antonio-fonseca-3a12054b/)**
