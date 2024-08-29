@@ -37,8 +37,7 @@
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
 - Email: [antfonseca@clarku.edu](mailto:antfonseca@clarku.edu)<br />
-- Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
-- Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
+- Linkedin: [in/giswu](https://www.linkedin.com/in/antonio-fonseca-3a12054b/)<br />
 
 
 
