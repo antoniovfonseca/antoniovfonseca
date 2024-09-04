@@ -1,4 +1,4 @@
-## **Hi there 👋, my name is Antonio Fonseca**
+## **Hello 👋, my name is Antonio Fonseca**
 
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
