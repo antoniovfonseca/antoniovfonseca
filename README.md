@@ -13,7 +13,7 @@
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=js,py,r,googleearthengine,qgis,arcgis)
+![My Skills](https://skillicons.dev/icons?i=js,py,r,colab)
 
 ## Latest Publications
 
