@@ -2,7 +2,7 @@
 
 
 #### **Mapping the unseen—bridging data and geography through GIS, Remote Sensing, and Spatial Analysis to uncover patterns and navigate uncertainty in spatial data.** 
-+ 🎓 I am a PhD student in the Graduate School of Geography at @ [Clark University](https://www.clarku.edu/departments/geography/)
++ 🎓 I am a PhD student in the Graduate School of Geography at @[Clark University](https://www.clarku.edu/departments/geography/)
 
 + 👨‍💻 I am a research assistant on the project "Irrigation as climate-change adaptation in the Cerrado biome of Brazil"
 
