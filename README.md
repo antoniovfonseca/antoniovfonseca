@@ -13,7 +13,7 @@
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=py,r,vscode)
+![My Skills](https://skillicons.dev/icons?i=jvspy,r,vscode)
 
 ## Latest Publications
 
