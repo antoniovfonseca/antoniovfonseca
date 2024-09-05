@@ -11,7 +11,7 @@
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,py,r,gee)
 
 ## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
 
