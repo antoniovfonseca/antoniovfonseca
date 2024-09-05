@@ -13,7 +13,7 @@
 ## **Skills**
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,gee)
 
-## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
+## Latest Publications
 
 [Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
 
