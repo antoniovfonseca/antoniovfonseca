@@ -6,7 +6,7 @@
 
 + 💻 My research interests include GIS, Remote Sensing, Land use and land cover maps, Spatial Analysis, and Uncertainty in spatial data.
 
-+ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/antonio-fonseca-3a12054b/) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=ov2hKjYAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/antonio-fonseca-3a12054b/) | [Google Scholar](https://scholar.google.com/citations?user=ov2hKjYAAAAJ&hl=en)
 
 ---
 
