@@ -1,7 +1,7 @@
 ## **Hello 👋, my name is Antonio Fonseca**
 
 
-#### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
+#### **Mapping the unseen—bridging data and geography through GIS, Remote Sensing, and Spatial Analysis to uncover patterns and navigate uncertainty in spatial data.** 
 + 🎓 I am a PhD student in the Graduate School of Geography at @ [Clark University](https://www.clarku.edu/departments/geography/)
 
 + 💻 My research interests include GIS, Remote Sensing, Land use and land cover maps, Spatial Analysis, and Uncertainty in spatial data.
