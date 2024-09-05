@@ -15,15 +15,12 @@
 
 ## Latest Publications
 
-[Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
+[Patterns of Change in Irrigation and Land Cover in Western Bahia, Brazil](https://aag.secure-platform.com/aag2024/gallery/rounds/74/details/50856)
 
-[Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
+[Landsat sub-pixel land cover dynamics in the Brazilian Amazon](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2023.1294552/full)
 
-[Gradient Boost — Classification](https://ywu120766.medium.com/gradient-boost-classification-bc1faf0a3dbe)
+[COMPARISON AMONG TIME SERIES MAPS OF DEFORESTATION IN THE AMAZON: HOW INDEPENDENT MONITORING SYSTEMS RELATE TO OFFICIAL DATA](https://proceedings.science/sbsr-2023/papers/comparison-among-time-series-maps-of-deforestation-in-the-amazon-how-independent?lang=en)
 
-[How to Divide Linestring(sf) into Equal Segments with R](https://ywu120766.medium.com/how-to-divide-linestring-sf-into-equal-segments-with-r-935a9ebaec7a)
-
-[Interactive map in Jupyter Notebook](https://ywu120766.medium.com/ipyleaflet-ipywidgets-interactive-map-in-jupyter-notebook-a6ba76586cb5)
 
 ---
 
