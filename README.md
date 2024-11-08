@@ -31,6 +31,7 @@
 - Email: [antfonseca@clarku.edu](mailto:antfonseca@clarku.edu)<br />
 - Linkedin: [antonio-fonseca](https://www.linkedin.com/in/antonio-fonseca-3a12054b/)<br />
 - Research Gate: [Antonio Fonseca](https://www.researchgate.net/profile/Antonio-Fonseca-16)<br />
+- Personal Website: [Antonio Fonseca GitHub](https://antoniovfonseca.github.io/)<br /br
 
 
 
