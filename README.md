@@ -6,7 +6,7 @@
 
 + 👨‍💻 I am a research assistant on the project "Irrigation as climate-change adaptation in the Cerrado biome of Brazil evaluated with new quantitative methods, socio-economic analysis, and scenario models" funded by [NASA](https://lcluc.umd.edu/node/39545) 🚀
 
-+ 💻 I conduct research in geography with a focus on remote sensing and spatial analysis to understand land use and land cover changes across different Brazilian biomes. I use time series of Landsat imagery and platforms such as Google Earth Engine to reconstruct historical patterns and identify processes of deforestation and forest degradation, particularly in the Amazon. My work integrates GIS techniques and uncertainty assessment to improve mapping accuracy and provide evidence to support conservation policies and land management.
++ 💻 I conduct research in geography with a focus on remote sensing and spatial analysis to understand land use and land cover changes across different sites. I use time series of Landsat imagery and platforms such as Google Earth Engine to reconstruct historical patterns and identify processes of deforestation and forest degradation, particularly in the Amazon. My work integrates GIS techniques and uncertainty assessment and provides evidence to support conservation policies and land management.
 
 + 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/antonio-fonseca-3a12054b/) | [Google Scholar](https://scholar.google.com/citations?user=ov2hKjYAAAAJ&hl=en)
 
