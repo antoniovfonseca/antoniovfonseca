@@ -13,7 +13,7 @@
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=js,py,r,vscode,github)
+![My Skills](https://skillicons.dev/icons?i=js,py,r,vscode,github,gcp)
 
 ## Latest Publications
 [A GIS Method to Summarize Changes Among Classes During a Time Series With an Application to Land Cover in Western Bahia, Brazil](https://onlinelibrary.wiley.com/doi/10.1111/tgis.70136)
